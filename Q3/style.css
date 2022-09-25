@@ -1,0 +1,16 @@
+#top {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding-left: 15em;
+    font-size: large;
+    font-weight: 700;
+    color: chocolate;
+  }
+  
+  #btn-div {
+    padding-left: 15em;
+    display: flex;
+    align-items: center;
+    gap: 10em;
+  }
